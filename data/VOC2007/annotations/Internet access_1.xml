@@ -1,0 +1,39 @@
+<annotation>
+  <folder>Internet access</folder>
+  <filename>Internet access_1.png</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>306</width>
+    <height>69</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>YES</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>11.38</xmin>
+      <ymin>32.69</ymin>
+      <xmax>31.83</xmax>
+      <ymax>54.17</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>NO</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>85.94</xmin>
+      <ymin>34.5</ymin>
+      <xmax>104.84</xmax>
+      <ymax>53.91</ymax>
+    </bndbox>
+  </object>
+</annotation>
